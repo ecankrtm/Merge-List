@@ -1,0 +1,10 @@
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Merge List\Merge List\bin\Debug\Merge List.exe.config
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Merge List\Merge List\bin\Debug\Merge List.exe
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Merge List\Merge List\bin\Debug\Merge List.pdb
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Merge List\Merge List\obj\Debug\Merge List.csproj.AssemblyReference.cache
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Merge List\Merge List\obj\Debug\Merge_List.Form1.resources
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Merge List\Merge List\obj\Debug\Merge_List.Properties.Resources.resources
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Merge List\Merge List\obj\Debug\Merge List.csproj.GenerateResource.cache
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Merge List\Merge List\obj\Debug\Merge List.csproj.CoreCompileInputs.cache
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Merge List\Merge List\obj\Debug\Merge List.exe
+C:\Users\abdur_41cjfyi\OneDrive\Masaüstü\Visual Stido C#\Merge List\Merge List\obj\Debug\Merge List.pdb
